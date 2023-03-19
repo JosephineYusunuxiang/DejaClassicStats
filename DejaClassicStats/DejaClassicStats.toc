@@ -53,4 +53,4 @@ DCSExpand.lua
 DCSAbout.lua
 
 ## Title-zhCN: |cffffffff[玉素]|r DejaClassicStats 角色面板美化 |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
-## Notes-zhCN: |cff32CD99|nDejaClassicStats: Dejablue的角色属性统计面板增强。|n面板装备按稀有程度染色、装备附魔显示、物品等级显示、|n耐久度以进度条和数值形式显示、属性统计。 |n|n附魔数据库已汉化、修正常用附魔。 |n|n呼出宏|n/dcstats config |n|n玉素奴香@哈霍兰CN|n|n个人仓库|nhttps://github.com/JosephineYusunuxiang/DejaClassicStats|r
+## Notes-zhCN: |cff32CD99|nDejaClassicStats: Dejablue的角色属性统计面板增强。|n面板装备按稀有程度染色、装备附魔显示、物品等级显示、|n耐久度以进度条和数值形式显示、属性统计。 |n|n附魔数据库已汉化，设置界面、属性统计面板、常用附魔汉化显示已修正。 |n|n呼出宏|n/dcstats config |n|n玉素奴香@哈霍兰CN|n|n个人仓库|nhttps://github.com/JosephineYusunuxiang/DejaClassicStats |n|n插件作者Dejablue地址|nhttps://www.curseforge.com/wow/addons/dejaclassicstats|r |cffff0000|n|n!!尚未修复：属性统计面板|n法术命中\物理远近命中\治疗强度\远程攻击强度返回数值为0|n1.14失效API|nGetSpellHitModifier()\GetHitModifier()\GetSpellBonusHealing()\UnitRangedDamage()|r
