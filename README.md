@@ -14,7 +14,7 @@
   
   1.14失效API  
   GetSpellHitModifier()\GetHitModifier()\GetSpellBonusHealing()\UnitRangedDamage()  
-  属性统计面板&  
+  属性统计面板&WA  
   法术命中\物理远近命中\治疗强度\远程攻击强度返回数值为0
   
   
