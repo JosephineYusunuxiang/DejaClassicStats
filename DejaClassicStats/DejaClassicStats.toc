@@ -1,0 +1,56 @@
+## Interface: 11403
+## Version: 1401r001-based-11403
+## Author: Dejablue, Kakjens, loudsoul
+## Title-deDE: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-enUS: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-esES: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-esMX: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-frFR: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-itIT: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-koKR: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-ptBR: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-ruRU: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-zhCN: |cffffffff[玉素]|r DejaClassicStats 角色面板美化 |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Title-zhTW: |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Notes-deDE: DejaClassicStats: Dejablues verbesserte Ansicht der Charakterwerte.
+## Notes-enUS: DejaClassicStats: Dejablue's improved character stats panel view.
+## Notes-esES: DejaClassicStats: Vista mejorada del panel de atributos del personaje por Dejablue.
+## Notes-esMX: DejaClassicStats: Vista mejorada del panel de atributos del personaje por Dejablue.
+## Notes-frFR: DejaClassicStats: Panneau des statistiques de personnage amélioré, par Dejablue
+## Notes-itIT: DejaClassicStats: Vista pannello delle statistiche del personaggio migliorata di Dejablue.
+## Notes-koKR: DejaClassicStats: Dejablue의 향상된 캐릭터 통계 패널보기.
+## Notes-ptBR: DejaClassicStats: Visão do painel de estatísticas de personagem aprimorada de Dejablue.
+## Notes-ruRU: DejaClassicStats: Улучшенное представление характеристик персонажа Dejablue.
+## Notes-zhCN: DejaClassicStats: Dejablue的角色属性统计面板增强。|n面板装备按稀有程度染色、装备附魔显示、物品等级显示、|n耐久度以进度条和数值形式显示、属性统计。
+## Notes-zhTW: DejaClassicStats: Dejablue的角色屬性統計面板增強。
+## SavedVariables: DejaClassicStatsDB
+## SavedVariables: DCS_ClassSpecDB
+## SavedVariablesPerCharacter: DejaClassicStatsDBPC
+
+## X-Category: Class
+## X-License: All Rights Reserved unless otherwise explicitly stated.
+## X-Website: https://dejoblue.com
+## X-Curse-Project-ID: 334987
+## X-WoWI-ID: 25118
+
+Localization\localization.core.lua
+Localization\localization.deDE.lua
+Localization\localization.enGB.lua
+Localization\localization.enUS.lua
+Localization\localization.esES.lua
+Localization\localization.esMX.lua
+Localization\localization.frFR.lua
+Localization\localization.itIT.lua
+Localization\localization.koKR.lua
+Localization\localization.ptBR.lua
+Localization\localization.ruRU.lua
+Localization\localization.zhCN.lua
+Localization\localization.zhTW.lua
+
+DejaClassicStats.lua
+DCSDuraRepair.lua
+DCSExpand.lua
+DCSAbout.lua
+
+## Title-zhCN: |cffffffff[玉素]|r DejaClassicStats 角色面板美化 |TInterface\Addons\DejaClassicStats\DCSArt\DejoLogo:26:26|t|cff00c0ffDCS|r
+## Notes-zhCN: |cff32CD99|nDejaClassicStats: Dejablue的角色属性统计面板增强。|n面板装备按稀有程度染色、装备附魔显示、物品等级显示、|n耐久度以进度条和数值形式显示、属性统计。 |n|n附魔数据库已汉化、修正常用附魔。 |n|n呼出宏|n/dcstats config |n|n玉素奴香@哈霍兰CN|n|n个人仓库|nhttps://github.com/JosephineYusunuxiang/DejaClassicStats|r
