@@ -11,10 +11,10 @@
   
   插件作者Dejablue地址  
   https://www.curseforge.com/wow/addons/dejaclassicstats  
-  
+     
+  尚未修复：属性统计面板  
+  法术命中\物理远近命中\治疗强度\远程攻击强度返回数值为0  
   1.14失效API  
-  GetSpellHitModifier()\GetHitModifier()\GetSpellBonusHealing()\UnitRangedDamage()  
-  属性统计面板&WA  
-  法术命中\物理远近命中\治疗强度\远程攻击强度返回数值为0
+  GetSpellHitModifier()\GetHitModifier()\GetSpellBonusHealing()\UnitRangedDamage() 
   
   
